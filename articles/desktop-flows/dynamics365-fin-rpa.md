@@ -175,6 +175,7 @@ Now that prerequisites are set, we are on our way to get these free solutions th
     |D365CompanyName |Name of the company to use in your D365 organization. It is located at the top right corner of your screen.  |
     |D365FinanceSite |URL to your Dynamics 365 Finance website. It goes until dynamics.com |
     |D365SiteUserName |Email address of the user account the automation should run under.|
+    |SharePointTeamSite |URL of the Sharepoint teams folder site where the downoaded dynamics reports will be uplaoded to.|
 
 
 1. Turn on the cloud flow in the solution 
